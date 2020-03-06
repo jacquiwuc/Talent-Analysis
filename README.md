@@ -9,6 +9,15 @@ Technology: T-SQL, SSIS, PowerBI, Tableau, React, BigData and  Hadoop.
 
 Project Management tool: JIRA
 
+
+The issues assigned to me: 
+
+Design Fact and Dim table based on the designed key metrics (Make sure the design as scale as possible)
+
+Use draw.io to create visualisation 
+
+
+
 Advanced knowledge required for the Talent Analysis Project
 
 Tableau: A data visualization tool.
